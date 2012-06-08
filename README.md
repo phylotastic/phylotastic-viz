@@ -1,6 +1,6 @@
 # About
 
-This little app combines PhyloBox with CartoDB so that you can explore the tips of a phylogenetic tree and see corresponding species occurrence points and range polygons on the map. It rides off GBIF and Map of Life data.
+This little app combines (http://github.com/andrewxhill/PhyloBox)[PhyloBox] with (http://github.com/vizzuality/cartodb)[CartoDB] so that you can explore the tips of a phylogenetic tree and see corresponding species occurrence points and range polygons on the map. It rides off (http://gbif.org)[GBIF] and (http://mappinglife.org)[Map of Life] data.
 
 Demo: 
 
